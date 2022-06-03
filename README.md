@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimelshetihy&label=Profile%20views&color=0e75b6&style=flat" alt="karimelshetihy" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karimelshetihy" alt="karimelshetihy" /></a> </p>
+
 - 📌 I’m currently working on **Deep Learning Projects**
 
 - 📖 I’m currently learning **Computer Vision, NLP, & GANs**
